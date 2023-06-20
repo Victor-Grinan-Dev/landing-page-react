@@ -1,4 +1,4 @@
-# Email-Subscribe 
+# Landing-page 
 - this is a mini project to learn tailwind css.
 
 ## steps I followed to start this project:
